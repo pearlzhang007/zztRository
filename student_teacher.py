@@ -29,7 +29,7 @@ class Student(Person):
         print("Pass:{},Fail: {}".format(n1,n2))
 class Teacher(Person):
     def __init__(self,name,papers,grade):
-        Person._init__(self,name)
+        Person.__init__(self,name)
         self.papers = papers
         self.grade = grade
     def get_details(self):
@@ -43,8 +43,8 @@ class Teacher(Person):
 person1 = Person("Sachin")
 if sys.argv[1] =="student":
     student1 = Student('Kushal','CSE',2005,sys.argv[2])
-    student1.get_garde()
+    student1.get_grade()
 else:
-    teacher1 = Teacher('Prashad',['C'.'C++'],sys.argv[2])
-    teacher1.get_garde()
+    teacher1 = Teacher('Prashad',['C','C++'],sys.argv[2])
+    teacher1.get_grade()
 
