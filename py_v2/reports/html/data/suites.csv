@@ -1,0 +1,8 @@
+"Status","Name","Duration in ms","Description"
+"passed","scripts.test_payorder.TestPayOrder#test_payorder","1426",""
+"passed","scripts.test_admin_login.TestAdminLogin#test_admin_login","157",""
+"passed","scripts.test_delivery.TestDelivery#test_delivery","1816",""
+"passed","scripts.test_cart.TestCart#test_add_cart","1278",""
+"passed","scripts.test_login_v1.TestLogin#test_login","141",""
+"passed","scripts.test_order.TestOrder#test_order","1265",""
+"passed","scripts.test_login.TestLogin#test_login","145",""

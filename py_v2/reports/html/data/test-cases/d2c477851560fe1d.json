@@ -1,0 +1,146 @@
+{
+  "uid" : "d2c477851560fe1d",
+  "name" : "test_login",
+  "fullName" : "scripts.test_login.TestLogin#test_login",
+  "historyId" : "161da9f82071fb37eae9201ae900aa4f",
+  "time" : {
+    "start" : 1597394832957,
+    "stop" : 1597394833102,
+    "duration" : 145
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1597394829619,
+      "stop" : 1597394829690,
+      "duration" : 71
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "_skip_sensitive",
+    "time" : {
+      "start" : 1597394832957,
+      "stop" : 1597394832957,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "_verify_url",
+    "time" : {
+      "start" : 1597394829690,
+      "stop" : 1597394829690,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "sensitive_url",
+    "time" : {
+      "start" : 1597394829690,
+      "stop" : 1597394829690,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "base_url",
+    "time" : {
+      "start" : 1597394829690,
+      "stop" : 1597394829690,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fed4c1d9ca58b5dd",
+      "name" : "log",
+      "source" : "fed4c1d9ca58b5dd.txt",
+      "type" : "text/plain",
+      "size" : 66
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-LIVE0232"
+  }, {
+    "name" : "thread",
+    "value" : "6452-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d2c477851560fe1d.json",
+  "parameterValues" : [ ]
+}

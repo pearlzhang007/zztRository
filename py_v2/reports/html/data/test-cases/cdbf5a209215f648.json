@@ -1,0 +1,146 @@
+{
+  "uid" : "cdbf5a209215f648",
+  "name" : "test_add_cart",
+  "fullName" : "scripts.test_cart.TestCart#test_add_cart",
+  "historyId" : "2e7fe7228d31a313e581f5fd58eccb16",
+  "time" : {
+    "start" : 1597394829851,
+    "stop" : 1597394831129,
+    "duration" : 1278
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1597394829619,
+      "stop" : 1597394829690,
+      "duration" : 71
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "_verify_url",
+    "time" : {
+      "start" : 1597394829690,
+      "stop" : 1597394829690,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "sensitive_url",
+    "time" : {
+      "start" : 1597394829690,
+      "stop" : 1597394829690,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "_skip_sensitive",
+    "time" : {
+      "start" : 1597394829851,
+      "stop" : 1597394829851,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "base_url",
+    "time" : {
+      "start" : 1597394829690,
+      "stop" : 1597394829690,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4b7e3138d8d0dc3d",
+      "name" : "log",
+      "source" : "4b7e3138d8d0dc3d.txt",
+      "type" : "text/plain",
+      "size" : 66
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_cart"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCart"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-LIVE0232"
+  }, {
+    "name" : "thread",
+    "value" : "6452-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_cart"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cdbf5a209215f648.json",
+  "parameterValues" : [ ]
+}
